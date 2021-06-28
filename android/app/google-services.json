@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "959154236161",
+    "firebase_url": "https://cloud-remote-switch-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "cloud-remote-switch",
+    "storage_bucket": "cloud-remote-switch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959154236161:android:30941070765b3df7558900",
+        "android_client_info": {
+          "package_name": "com.arsoftbd.remote_switch_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959154236161-la0e4gjagg6om3thv7rmlro0mq3s55uq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvrLL2XKNDunVr-fdNMomeWHKfpnzfT9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959154236161-la0e4gjagg6om3thv7rmlro0mq3s55uq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "COMPATIBLE_SCREEN_MANIFEST",
+    "kind": "Directory"
+  },
+  "applicationId": "com.arsoftbd.remote_switch_mobile",
+  "variantName": "debug",
+  "elements": []
+}

@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/arsoftbd/remote_switch_mobile/BuildConfig.java
+ com.arsoftbd.remote_switch_mobile.BuildConfig
